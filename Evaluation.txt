@@ -1,0 +1,11 @@
+F-measure;
+Confusion matrix;
+True/False Positives (TP) and (FP);
+True/False Negatives (TN) and (FN);
+Precision;
+Accuracy;
+Specificity;
+Sensitivity;
+ROC;
+Recall score;
+Classification Report;
